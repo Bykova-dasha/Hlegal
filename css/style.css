@@ -258,7 +258,7 @@ main .info-number p {
 }
 
 .team .team-container{
-    width: 100%;
+    width: 1440px;
     height: 438px;
     background-image: url('/image/About/Photo.jpg');
     background-size: cover;
