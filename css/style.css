@@ -260,7 +260,7 @@ main .info-number p {
 .team .team-container{
     width: 1440px;
     height: 438px;
-    background-image: url('/image/About/Photo.jpg');
+    background-image: url('../image/About/Photo.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -622,7 +622,7 @@ background:#FFFFFF;
      height: 462px;
  }
 .team_section .team1 .team_img1{
-    background-image: url("/image/Team/team1.png");
+    background-image: url("../image/Team/team1.png");
     border-radius: 12px;
     width: 400px;
     height: 400px;
@@ -636,7 +636,7 @@ background:#FFFFFF;
 
 }
  .team2 .team_img2{
-    background-image: url("/image/Team/team2.png");
+    background-image: url("../image/Team/team2.png");
     border-radius: 12px;
     width: 400px;
     height: 400px;
@@ -649,7 +649,7 @@ background:#FFFFFF;
 
 }
 .team_section .team3 .team_img3{
-    background-image: url("/image/Team/team3.png");
+    background-image: url("../image/Team/team3.png");
     border-radius: 12px;
     width: 400px;
     height: 400px;
@@ -663,7 +663,7 @@ background:#FFFFFF;
 }
 
 .team_section .team4 .team_img4{
-    background-image: url("/image/Team/team4.png");
+    background-image: url("../image/Team/team4.png");
     border-radius: 12px;
     width: 400px;
     height: 400px;
@@ -678,7 +678,7 @@ background:#FFFFFF;
 }
 
 .team_section .team5 .team_img5{
-    background-image: url("/image/Team/team5.png");
+    background-image: url("../image/Team/team5.png");
     border-radius: 12px;
     width: 400px;
     height: 400px;
@@ -693,7 +693,7 @@ background:#FFFFFF;
 }
 
 .team_section .team6 .team_img6{
-    background-image: url("/image/Team/team6.png");
+    background-image: url("../image/Team/team6.png");
     border-radius: 12px;
     width: 400px;
     height: 400px;
